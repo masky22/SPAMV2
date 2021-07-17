@@ -88,7 +88,7 @@ class nyepam:
 		except reek.exceptions.ConnectionError:exit("[!] Kesalahan Pada Koneksi")
 		except (KeyboardInterrupt,EOFError):exit("[!] Exit")
 __import__("os").system("clear")
-os.system("termux-open-url  https://youtube.com/channel/UC2ItJzPgWyihgREWErfr65g ")
+os.system(" ")
 banner = """
 \033[1;35m  
 ╔╦╦╦═╦╗╔═╦═╦══╦═╗
